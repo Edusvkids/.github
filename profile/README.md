@@ -19,12 +19,12 @@ Además de poder desarrollar su lógica y estrategias con un juego de ajedrez</p
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
 <br>
-<h2>Bryan Calderon</h2>
+<h2>Hector Alfaro</h2>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bryan19K&theme=onedark" alt="Bryan19K" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bryan19K&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Bryan19K" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryan19K&show_icons=true&locale=en&theme=onedark" alt="Bryan19K" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan19K&theme=onedark" alt="Bryan19K" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hecalfa&theme=onedark" alt="Hecalfa" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hecalfa&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Hecalfa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hecalfa&show_icons=true&locale=en&theme=onedark" alt="Hecalfa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hecalfa&theme=onedark" alt="Hecalfa" /></p>
 <br>
 <h2>Leonel Candido</h2>
 <br>
